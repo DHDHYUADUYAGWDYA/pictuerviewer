@@ -1,0 +1,10 @@
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\bin\Debug\PictureViewer Kuleshov.exe.config
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\bin\Debug\PictureViewer Kuleshov.exe
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\bin\Debug\PictureViewer Kuleshov.pdb
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer Kuleshov.csproj.AssemblyReference.cache
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer_Kuleshov.Form1.resources
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer_Kuleshov.Properties.Resources.resources
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer Kuleshov.csproj.GenerateResource.cache
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer Kuleshov.csproj.CoreCompileInputs.cache
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer Kuleshov.exe
+C:\Users\29393776\source\repos\PictureViewer Kuleshov\PictureViewer Kuleshov\obj\Debug\PictureViewer Kuleshov.pdb
